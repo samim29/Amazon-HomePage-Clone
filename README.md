@@ -4,8 +4,6 @@ A fully responsive front-end clone of Amazon's homepage, built using modern web 
 
 🛠 Tech Stack
 HTML5, CSS3, JavaScript
-Bootstrap / Tailwind CSS
-React.js (if applicable)
 🚀 Features
 ✅ Responsive Design (Mobile & Desktop)
 ✅ Navigation Bar & Search Functionality
