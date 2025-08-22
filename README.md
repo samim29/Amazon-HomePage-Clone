@@ -15,13 +15,13 @@ A fully responsive **front-end clone of Amazon's homepage**, built using modern 
 - ✅ Shopping Cart UI (Frontend only)  
 
 ## 📂 Project Structure  
-📦 Amazon-Clone
-┣ 📂 assets
-┣ 📂 components
-┣ 📜 index.html
-┣ 📜 styles.css
-┣ 📜 script.js
-┣ 📜 README.md
+📦 Amazon-Clone <br>
+┣ 📂 assets <br>
+┣ 📂 components<br>
+┣ 📜 index.html<br>
+┣ 📜 styles.css<br>
+┣ 📜 script.js<br>
+┣ 📜 README.md<br>
 
 
 ## 🖥 Installation & Setup  
