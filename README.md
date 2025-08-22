@@ -1,34 +1,31 @@
-Amazon Front-End Clone
-📌 Overview
-A fully responsive front-end clone of Amazon's homepage, built using modern web technologies.
+# 🛒 Amazon Front-End Clone  
 
-🛠 Tech Stack
-HTML5, CSS3, JavaScript
-🚀 Features
-✅ Responsive Design (Mobile & Desktop)
-✅ Navigation Bar & Search Functionality
-✅ Product Listings & Categories
-✅ Shopping Cart UI (Frontend only)
+## 📌 Overview  
+A fully responsive **front-end clone of Amazon's homepage**, built using modern web technologies.  
 
-📂 Project Structure
-rust
-Copy
-Edit
-📦 Amazon-Clone  
- ┣ 📂 assets  
- ┣ 📂 components  
- ┣ 📜 index.html  
- ┣ 📜 styles.css  
- ┣ 📜 script.js  
- ┣ 📜 README.md  
-🖥 Installation & Setup
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/amazon-clone.git
-Open index.html in your browser
-🎯 To-Do
-🔹 Implement backend with Node.js & Express
-🔹 Add user authentication & checkout functionality
-🔹 Deploy on Vercel / Netlify
+## 🛠 Tech Stack  
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+
+## 🚀 Features  
+- ✅ Responsive Design (Mobile & Desktop)  
+- ✅ Navigation Bar & Search Functionality  
+- ✅ Product Listings & Categories  
+- ✅ Shopping Cart UI (Frontend only)  
+
+## 📂 Project Structure  
+📦 Amazon-Clone
+┣ 📂 assets
+┣ 📂 components
+┣ 📜 index.html
+┣ 📜 styles.css
+┣ 📜 script.js
+┣ 📜 README.md
+
+
+## 🖥 Installation & Setup  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/samim29/amazon-clone.git
+2. Open index.html in your browser.
